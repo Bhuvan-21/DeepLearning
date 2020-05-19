@@ -8,3 +8,5 @@ CIFAR10 dataset object classification using CNNs.
 Differential Privacy project on the MNIST dataset (Laplacian).
 
 Linear Autoencoder on MNIST dataset.
+
+GANs Face Generation on CelebA dataset.
