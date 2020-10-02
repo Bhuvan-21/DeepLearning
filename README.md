@@ -1,5 +1,5 @@
 # DeepLearning
-Code for different types of DL applications
+Code for different types of DL applications using Pytroch.
 
 MNIST digit recognition using a fully connected network.
 
